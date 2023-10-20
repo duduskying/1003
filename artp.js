@@ -15,11 +15,11 @@ TG频道群：https://t.me/py996
 
 [rewrite_local]
 
-^https:\/\/awvp\.aoscdn\.com\/base\/vip\/client\/authorizations url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/artp.js
+^https:\/\/awvp\.apsapp\.com\/base\/vip\/client\/authorizations url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/artp.js
 
 [mitm] 
 
-hostname = awvp.aoscdn.com
+hostname = awvp.apsapp.com
 
 *******************************/
 
