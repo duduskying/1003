@@ -15,11 +15,11 @@ TG频道群：https://t.me/py996
 
 [rewrite_local]
 
-^https:\/\/awvp\.apsapp\.com\/base\/vip\/client\/authorizations url script-response-body https://raw.githubusercontent.com/duduskying/1003/main/artp.js
+^https:\/\/apsapp\.com\/base\/vip\/client\/authorizations url script-response-body https://raw.githubusercontent.com/duduskying/1003/main/artp.js
 
 [mitm] 
 
-hostname = awvp.apsapp.com
+hostname = apsapp.com
 
 *******************************/
 
